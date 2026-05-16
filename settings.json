@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Suchykochamblanke",
+    "username": "Suchy",
     "password": "",
     "type": "offline"
   },
@@ -36,7 +36,7 @@
         "lubie lizać stopy Blanki",
         "jestem prawdziwy suchy jestem gejem",
         "zrób mi loda uwu",
-        "kto chce w dupe /tpa"
+        "kto chce w dupe tpa"
       ]
     },
     "chat-log": true,
