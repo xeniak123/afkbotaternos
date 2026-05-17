@@ -29,9 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 15,
+      "repeat-delay": 60,
       "messages": [
-        "ㅤㅤㅤ "
+        "ㅤㅤㅤnic"
       ]
     },
     "chat-log": true,
