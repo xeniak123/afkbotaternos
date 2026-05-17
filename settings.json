@@ -29,14 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 15,
       "messages": [
-        "Lbuie mleczko blaneczki ohh",
-        "Kocham Blanke UWU",
-        "lubie lizać stopy Blanki",
-        "jestem prawdziwy suchy jestem gejem",
-        "zrób mi loda uwu",
-        "kto chce w dupe tpa"
+        "MACIEK i FRANEK to FAKE FRIENDS"
       ]
     },
     "chat-log": true,
